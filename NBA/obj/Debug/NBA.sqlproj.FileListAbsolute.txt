@@ -1,0 +1,5 @@
+c:\users\pwang_000\documents\visual studio 2013\Projects\NBA\NBA\bin\Debug\NBA.dacpac
+c:\users\pwang_000\documents\visual studio 2013\Projects\NBA\NBA\bin\Debug\NBA.dll
+c:\users\pwang_000\documents\visual studio 2013\Projects\NBA\NBA\bin\Debug\NBA.pdb
+c:\users\pwang_000\documents\visual studio 2013\Projects\NBA\NBA\obj\Debug\NBA.dll
+c:\users\pwang_000\documents\visual studio 2013\Projects\NBA\NBA\obj\Debug\NBA.pdb
